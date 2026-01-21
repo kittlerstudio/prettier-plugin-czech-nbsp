@@ -10,7 +10,7 @@ Prettier plugin that inserts **Unicode NBSP (U+00A0)** after Czech one-letter pr
 - Skips Handlebars moustache blocks: `{{ ... }}`
 
 ### Install
-npm i -D prettier prettier-plugin-czech-nbsp
+npm i -D prettier @kittler/prettier-plugin-czech-nbsp
 
 ### Usage
 Add the plugin to your Prettier config.
