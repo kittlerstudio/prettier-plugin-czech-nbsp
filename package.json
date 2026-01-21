@@ -1,26 +1,37 @@
 {
     "name": "@kittler/prettier-plugin-czech-nbsp",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Prettier plugin that inserts Czech Unicode NBSP (U+00A0) after one-letter prepositions/conjunctions in HTML text nodes.",
     "license": "MIT",
     "main": "index.cjs",
-    "files": ["index.cjs", "README.md", "LICENSE"],
-    "keywords": ["prettier", "prettier-plugin", "czech", "nbsp", "typography", "html"],
+    "files": [
+        "index.cjs",
+        "README.md",
+        "LICENSE"
+    ],
+    "keywords": [
+        "prettier",
+        "prettier-plugin",
+        "czech",
+        "nbsp",
+        "typography",
+        "html"
+    ],
     "peerDependencies": {
-      "prettier": ">=3.0.0"
+        "prettier": ">=3.0.0"
     },
     "engines": {
-      "node": ">=18"
+        "node": ">=18"
     },
     "publishConfig": {
-      "access": "public"
+        "access": "public"
     },
     "repository": {
-      "type": "git",
-      "url": "https://github.com/kittlerstudio/prettier-plugin-czech-nbsp.git"
+        "type": "git",
+        "url": "https://github.com/kittlerstudio/prettier-plugin-czech-nbsp.git"
     },
     "bugs": {
-      "url": "https://github.com/kittlerstudio/prettier-plugin-czech-nbsp/issues"
+        "url": "https://github.com/kittlerstudio/prettier-plugin-czech-nbsp/issues"
     },
     "homepage": "https://github.com/kittlerstudio/prettier-plugin-czech-nbsp#readme"
-  }
+}
