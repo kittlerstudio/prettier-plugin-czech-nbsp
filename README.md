@@ -57,5 +57,9 @@ npm install
 npm test
 ```
 
+### Support
+
+If this tool helps you in your work, you can support its development by buying me a coffee on [Ko-fi](https://ko-fi.com/jakubkittler).
+
 ### License
 MIT
