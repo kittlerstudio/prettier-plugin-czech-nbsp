@@ -1,14 +1,14 @@
 {
     "name": "@kittler/prettier-plugin-czech-nbsp",
-    "version": "0.1.3",
+    "version": "0.1.4",
     "description": "Prettier plugin that inserts Czech Unicode NBSP (U+00A0) after one-letter prepositions/conjunctions in HTML text nodes.",
     "license": "MIT",
     "funding": [
         {
-          "type": "ko-fi",
-          "url": "https://ko-fi.com/jakubkittler"
+            "type": "ko-fi",
+            "url": "https://ko-fi.com/jakubkittler"
         }
-      ],
+    ],
     "main": "index.cjs",
     "files": [
         "index.cjs",
